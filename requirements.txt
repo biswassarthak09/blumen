@@ -1,0 +1,7 @@
+# Please manually install torch and torchvision
+matplotlib>=3.3
+numpy>=1.19
+torchsummary>=1.5
+tqdm>=4.45.0
+torch>=2.0
+torchvision>=0.1
